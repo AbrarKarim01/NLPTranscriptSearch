@@ -41,15 +41,6 @@ This project builds a searchable dashboard for an **introductory Machine Learnin
 - Topic + phrase extraction: `scikit-learn` (TF-IDF, LDA)
 - Dashboard UI: **Gradio**
 
-## Repository contents
-
-- `Md Abrar_1273832.ipynb` — main notebook with the entire pipeline
-- `Md Abrar_1273832.pdf` — exported notebook PDF
-- (Optional folders created when you run)
-  - `videos/` — downloaded `.mp4` files
-  - `audios/` — converted `.wav` files
-  - `csv/` or project root — generated `.csv` outputs
-
 ## Setup
 
 ### 1) Clone the repo
